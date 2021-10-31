@@ -34,7 +34,7 @@ function _translate() {
         title=$content
         width=60
     fi
-    result=$(python3 ~/.oh-my-zsh/plugins/translator/translator.py $(echo -n $content | base64) $zh)
+    result=$(python3 ~/.oh-my-zsh/plugins/omz-translator/translator.py $(echo -n $content | base64) $zh)
     _check_dialog
     check_res=$?
     if [ $check_res -eq 0 ]; then

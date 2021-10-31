@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The `translator plugin` get the translation result from baidu translator. support both chinese and english.
+The `translator plugin` get the translation result from baidu translator. Support both chinese and english.
 
 To use it, add `translator` to the plugins array of your zshrc file:
 
@@ -22,4 +22,5 @@ plugins=(... translator)
 
 - `TT`: translate the words from system clipbodard.
 
-**Must put the plugin under `~/.oh-my-zsh/plugins/` **
+
+**Must put the plugin under `~/.oh-my-zsh/plugins/`**

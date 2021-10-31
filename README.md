@@ -16,8 +16,10 @@ plugins=(... translator)
 
 - tZ + [chinese words]: query the result from chinese dictionary.
 
-**if not support the words, it will try to read words from stdin or system clipbodard.**
+**If not support the words, it will try to read words from stdin or system clipbodard.**
 
 ## Keys
 
-- 'TT': translate the words from system clipbodard.
+- `TT`: translate the words from system clipbodard.
+
+**Must put the plugin under `~/.oh-my-zsh/plugins/` **

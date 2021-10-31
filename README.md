@@ -1,4 +1,4 @@
-# translator plugin
+# omz-translator plugin
 
 ## Introduction
 

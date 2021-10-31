@@ -8,7 +8,7 @@ function _check_dialog() {
 }
 
 function _get_translate_word() {
-    content=$1
+    content=$*
     if [ ${#content} -eq 0 ]; then
         read -t 0 content
         if [ ${#content} -eq 0 ]; then

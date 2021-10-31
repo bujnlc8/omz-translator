@@ -28,3 +28,6 @@ plugins=(... omz-translator)
 - **Must put the plugin under `~/.oh-my-zsh/plugins/`**
 
 - **To support display the result in dialog, you may need to install the `dialog` utility from [https://invisible-island.net/dialog/dialog.html](https://invisible-island.net/dialog/dialog.html), or it will just echo the result.**
+
+
+![](https://s3.bmp.ovh/imgs/2021/10/d7aab75307f889b3.jpg)

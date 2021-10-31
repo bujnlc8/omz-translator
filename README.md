@@ -23,4 +23,8 @@ plugins=(... omz-translator)
 - `TT`: translate the words from system clipbodard.
 
 
-**Must put the plugin under `~/.oh-my-zsh/plugins/`**
+## Attentions
+
+- **Must put the plugin under `~/.oh-my-zsh/plugins/`**
+
+- **To support display the result in dialog, you may need to install the `dialog` utility from [https://invisible-island.net/dialog/dialog.html](https://invisible-island.net/dialog/dialog.html), or it will just echo the result.**

@@ -4,10 +4,10 @@
 
 The `translator plugin` get the translation result from baidu translator. Support both chinese and english.
 
-To use it, clone the repository into `~/.oh-my-zsh/plugins/`, add `translator` to the plugins array of your zshrc file:
+To use it, clone the repository into `~/.oh-my-zsh/plugins/`, add `omz-translator` to the plugins array of your zshrc file:
 
 ```
-plugins=(... translator)
+plugins=(... omz-translator)
 ```
 
 ## Functions
